@@ -2,7 +2,8 @@
 - 👀 I’m interested in Web Developing
 - 🌱 I’m currently learning MERN 
 - 💞️ I’m looking to collaborate on Full Stack Web Development
-- 📫 How to reach me ...
+- 📫 How to reach me mdimrankhan175@gmail.com
+- Follow me on my Linkedin https://www.linkedin.com/in/imrankhanmohammad/
 
 <!---
 mdimrankhan175/mdimrankhan175 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
